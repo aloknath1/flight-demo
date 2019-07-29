@@ -1,0 +1,27 @@
+.App-header {
+  display: flex;
+  padding:20px;
+  width:100%;
+  font-size: calc(10px + 2vmin);
+  color: #333;
+  float:left;
+  border-bottom:3px solid #ddd;
+}
+
+.App-header .left{
+  width:15%;
+  float:left;
+}
+.App-header .right{
+  width:85%;
+}
+.logo{
+  color:red;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:20px;
+}
+
+.sup{
+   font-family: Arial, Helvetica, sans-serif;
+  font-size:11px;
+}

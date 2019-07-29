@@ -1,0 +1,57 @@
+[
+    {
+    "name": "004NC",
+    "start": "Y2212",
+    "end": "KX0983",
+    "start_place": "KATL",
+    "end_place": "KPHX",
+    "start_time": "9:00 am",
+    "end_time": "11:00 am",
+    "flight_time": "4h 12m",
+    "status":"Incomplete"
+},
+{
+    "name": "004NC",
+    "start": "Y2212",
+    "end": "KX0983",
+    "start_place": "KATL",
+    "end_place": "KPHX",
+    "start_time": "9:00 am",
+    "end_time": "11:00 am",
+     "flight_time": "4h 12m",
+    "status":"Ready to File"
+},
+{
+    "name": "004NC",
+    "start": "Y2212",
+    "end": "KX0983",
+    "start_place": "KATL",
+    "end_place": "KPHX",
+    "start_time": "9:00 am",
+    "end_time": "11:00 am",
+     "flight_time": "4h 12m",
+    "status":"Approved"
+},
+{
+    "name": "004NC",
+    "start": "Y2212",
+    "end": "KX0983",
+    "start_place": "KATL",
+    "end_place": "KPHX",
+    "start_time": "9:00 am",
+    "end_time": "11:00 am",
+     "flight_time": "4h 12m",
+    "status":"Pending"
+},
+{
+    "name": "004NC",
+    "start": "Y2212",
+    "end": "KX0983",
+    "start_place": "KATL",
+    "end_place": "KPHX",
+    "start_time": "9:00 am",
+    "end_time": "11:00 am",
+     "flight_time": "4h 12m",
+    "status":"Rejected"
+}
+]
